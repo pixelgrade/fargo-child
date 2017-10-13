@@ -1,0 +1,2046 @@
+# Copyright (C) 2017 Pixelgrade
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fargo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/fargo\n"
+"POT-Creation-Date: 2017-10-11 15:47:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: components/base/abstracts/component-main.php:563
+#: components/base/abstracts/component-main.php:570
+#: components/base/inc/class-customizer.php:1610
+#: components/base/inc/class-customizer.php:1619
+#: components/base/inc/class-metaboxes.php:262
+#: components/base/inc/class-metaboxes.php:271
+#: components/featured-image/inc/class-metaboxes.php:255
+#: components/featured-image/inc/class-metaboxes.php:264
+#: components/footer/inc/class-customizer.php:326
+#: components/footer/inc/class-customizer.php:335
+#: components/header/inc/class-customizer.php:518
+#: components/header/inc/class-customizer.php:527
+#: components/hero/inc/class-metaboxes.php:723
+#: components/hero/inc/class-metaboxes.php:732
+#: components/portfolio/inc/class-customizer.php:645
+#: components/portfolio/inc/class-customizer.php:654
+#: components/portfolio/inc/class-metaboxes.php:402
+#: components/portfolio/inc/class-metaboxes.php:411
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: components/base/inc/class-custom-loops-for-pages.php:385
+msgid "You haven't provided a slug for the loop template part for the %s page template custom loop."
+msgstr ""
+
+#: components/base/inc/class-custom-loops-for-pages.php:399
+msgid "%s does not exist. Check out the config of the %s custom page template."
+msgstr ""
+
+#: components/base/inc/class-custom-loops-for-pages.php:405
+#: components/base/inc/class-custom-loops-for-pages.php:462
+msgid "You haven't provided a slug for the post template part for the %s page template custom loop."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:129
+msgid "General"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:133
+msgid "Enable dynamic page content loading using AJAX."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:199
+msgid "Main Content"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:204
+#: components/base/inc/class-customizer.php:212
+#: components/base/inc/class-customizer.php:975
+#: components/base/inc/class-customizer.php:984
+#: components/footer/inc/class-customizer.php:122
+#: components/footer/inc/class-customizer.php:130
+#: components/header/inc/class-customizer.php:150
+#: components/header/inc/class-customizer.php:159
+#: components/portfolio/inc/class-customizer.php:144
+#: components/portfolio/inc/class-customizer.php:153
+#: inc/integrations/customify.php:631
+msgid "Layout"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:205
+#: components/base/inc/class-customizer.php:402
+#: components/base/inc/class-customizer.php:976
+#: components/base/inc/class-customizer.php:1254
+#: components/footer/inc/class-customizer.php:123
+#: components/footer/inc/class-customizer.php:203
+#: components/header/inc/class-customizer.php:151
+#: components/header/inc/class-customizer.php:284
+#: components/portfolio/inc/class-customizer.php:145
+#: components/portfolio/inc/class-customizer.php:422
+#: inc/integrations/customify.php:668
+msgid "Colors"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:206
+#: components/base/inc/class-customizer.php:556
+#: components/base/inc/class-customizer.php:977
+#: components/base/inc/class-customizer.php:1334
+#: components/header/inc/class-customizer.php:152
+#: components/header/inc/class-customizer.php:342
+#: components/portfolio/inc/class-customizer.php:146
+#: components/portfolio/inc/class-customizer.php:502
+msgid "Fonts"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:216
+msgid "Site Container Max Width"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:217
+msgid "Adjust the max width of your site content area."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:236
+msgid "Site Container Sides Spacing"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:237
+#: components/base/inc/class-customizer.php:1009
+#: components/portfolio/inc/class-customizer.php:178
+msgid "Adjust the space separating the site content and the sides of the browser."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:275
+msgid "Site Container Padding"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:276
+msgid "Adjust the top and bottom distance between the page content and header/footer."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:302
+msgid "Content Width"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:303
+msgid "Decrease the width of your content to create an inset area for your text. The inset size will be the space between Site Container and Content."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:323
+msgid "Site Border Width"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:388
+msgid "Site Border Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:406
+msgid "Page Title Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:418
+#: components/footer/inc/class-customizer.php:207
+msgid "Body Text Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:430
+msgid "Body Link Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:442
+msgid "Body Link Active Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:454
+msgid "Underlined Body Links"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:460
+msgid "Headings Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:464
+#: components/base/inc/class-customizer.php:682
+msgid "Heading 1"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:476
+#: components/base/inc/class-customizer.php:719
+msgid "Heading 2"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:488
+#: components/base/inc/class-customizer.php:757
+msgid "Heading 3"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:500
+#: components/base/inc/class-customizer.php:796
+msgid "Heading 4"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:512
+#: components/base/inc/class-customizer.php:834
+msgid "Heading 5"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:524
+#: components/base/inc/class-customizer.php:872
+msgid "Heading 6"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:538
+msgid "Backgrounds"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:542
+msgid "Content Background Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:561
+msgid "Page Title Font"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:600
+msgid "Body Text Font"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:638
+msgid "Quote Block Font"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:677
+msgid "Headings Fonts"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:970
+#: inc/integrations/customify.php:495
+msgid "Blog Grid Items"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:988
+msgid "Blog Grid Max Width"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:989
+msgid "Adjust the max width of the blog area."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1008
+#: components/portfolio/inc/class-customizer.php:177
+msgid "Container Sides Spacing"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1037
+#: components/portfolio/inc/class-customizer.php:206
+msgid "Items Grid"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1041
+#: components/portfolio/inc/class-customizer.php:210
+msgid "Grid Layout"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1042
+#: components/portfolio/inc/class-customizer.php:211
+msgid "Choose whether the items display in a fixed height regular grid, or in a packed style layout."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1045
+#: components/portfolio/inc/class-customizer.php:214
+msgid "Regular Grid"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1046
+#: components/gallery/class-gallery.php:175
+#: components/portfolio/inc/class-customizer.php:215
+msgid "Masonry"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1047
+#: components/portfolio/inc/class-customizer.php:216
+msgid "Mosaic"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1048
+#: components/portfolio/inc/class-customizer.php:217
+msgid "Packed"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1053
+#: components/portfolio/inc/class-customizer.php:222
+msgid "Items Aspect Ratio"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1054
+#: components/portfolio/inc/class-customizer.php:223
+msgid "Leave the images to their original ratio or crop them to get a more defined grid layout."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1075
+#: components/portfolio/inc/class-customizer.php:244
+msgid "Items per Row"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1076
+#: components/portfolio/inc/class-customizer.php:245
+msgid "Set the desktop-based number of columns you want and we automatically make it right for other screen sizes."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1094
+#: components/portfolio/inc/class-customizer.php:263
+msgid "Items Vertical Spacing"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1095
+#: components/base/inc/class-customizer.php:1116
+#: components/portfolio/inc/class-customizer.php:264
+#: components/portfolio/inc/class-customizer.php:285
+msgid "Adjust the spacing between individual items in your grid."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1115
+#: components/portfolio/inc/class-customizer.php:284
+msgid "Items Horizontal Spacing"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1138
+#: components/portfolio/inc/class-customizer.php:307
+msgid "Items Title"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1142
+#: components/portfolio/inc/class-customizer.php:311
+msgid "Title Position"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1143
+#: components/portfolio/inc/class-customizer.php:312
+msgid "Choose whether the items titles are placed nearby the thumbnail or show as an overlay cover on  mouse over."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1146
+#: components/portfolio/inc/class-customizer.php:315
+msgid "Above"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1147
+#: components/portfolio/inc/class-customizer.php:316
+msgid "Below"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1148
+#: components/portfolio/inc/class-customizer.php:317
+msgid "Overlay"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1153
+#: components/portfolio/inc/class-customizer.php:322
+msgid "Title Alignment (Above/Below)"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1154
+#: components/portfolio/inc/class-customizer.php:323
+msgid "Adjust the alignment of your title."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1157
+#: components/portfolio/inc/class-customizer.php:326
+msgid "← Left"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1158
+#: components/portfolio/inc/class-customizer.php:327
+msgid "↔ Center"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1159
+#: components/portfolio/inc/class-customizer.php:328
+msgid "→ Right"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1165
+#: components/portfolio/inc/class-customizer.php:334
+msgid "Title Alignment (Overlay)"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1166
+#: components/portfolio/inc/class-customizer.php:335
+msgid "Adjust the alignment of your hover title."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1169
+#: components/portfolio/inc/class-customizer.php:338
+msgid "↑ Top     ← Left"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1170
+#: components/portfolio/inc/class-customizer.php:339
+msgid "↑ Top     ↔ Center"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1171
+#: components/portfolio/inc/class-customizer.php:340
+msgid "↑ Top     → Right"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1173
+#: components/portfolio/inc/class-customizer.php:342
+msgid "↕ Middle     ← Left"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1174
+#: components/portfolio/inc/class-customizer.php:343
+msgid "↕ Middle     ↔ Center"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1175
+#: components/portfolio/inc/class-customizer.php:344
+msgid "↕ Middle     → Right"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1177
+#: components/portfolio/inc/class-customizer.php:346
+msgid "↓ Bottom     ← Left"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1178
+#: components/portfolio/inc/class-customizer.php:347
+msgid "↓ Bottom     ↔ Center"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1179
+#: components/portfolio/inc/class-customizer.php:348
+msgid "↓ Bottom     → Right"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1188
+#: components/portfolio/inc/class-customizer.php:357
+msgid "Title Visibility"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1188
+#: components/base/inc/class-customizer.php:1207
+#: components/portfolio/inc/class-customizer.php:357
+#: components/portfolio/inc/class-customizer.php:375
+msgid "Select whether to show or hide the summary."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1192
+#: components/portfolio/inc/class-customizer.php:361
+msgid "Show Title"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1199
+#: components/portfolio/inc/class-customizer.php:368
+msgid "Items Excerpt"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1207
+#: components/portfolio/inc/class-customizer.php:375
+msgid "Excerpt Visibility"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1211
+#: components/portfolio/inc/class-customizer.php:379
+msgid "Show Excerpt Text"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1218
+#: components/portfolio/inc/class-customizer.php:386
+msgid "Items Meta"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1223
+#: components/portfolio/inc/class-customizer.php:391
+msgid "Primary Meta Section"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1224
+#: components/portfolio/inc/class-customizer.php:392
+msgid "Set the meta info that display around the title. "
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1227
+#: components/base/inc/class-customizer.php:1242
+#: components/gallery/class-gallery.php:58
+#: components/hero/inc/class-metaboxes.php:570
+#: components/portfolio/inc/class-customizer.php:395
+#: components/portfolio/inc/class-customizer.php:410
+msgid "None"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1228
+#: components/base/inc/class-customizer.php:1243
+#: components/portfolio/inc/class-customizer.php:396
+#: components/portfolio/inc/class-customizer.php:411
+msgid "Category"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1229
+#: components/base/inc/class-customizer.php:1244
+#: components/portfolio/inc/class-customizer.php:397
+#: components/portfolio/inc/class-customizer.php:412
+msgid "Author"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1230
+#: components/base/inc/class-customizer.php:1245
+#: components/portfolio/inc/class-customizer.php:398
+#: components/portfolio/inc/class-customizer.php:413
+msgid "Date"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1231
+#: components/base/inc/class-customizer.php:1246
+#: components/base/inc/extras.php:729 components/base/inc/template-tags.php:459
+#: components/portfolio/inc/class-customizer.php:399
+#: components/portfolio/inc/class-customizer.php:414
+#: components/portfolio/inc/template-tags.php:67
+msgid "Tags"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1232
+#: components/base/inc/class-customizer.php:1247
+#: components/portfolio/inc/class-customizer.php:400
+#: components/portfolio/inc/class-customizer.php:415
+msgid "Comments"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1238
+#: components/portfolio/inc/class-customizer.php:406
+msgid "Secondary Meta Section"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1258
+#: components/portfolio/inc/class-customizer.php:426
+msgid "Item Title Color"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1270
+#: components/portfolio/inc/class-customizer.php:438
+msgid "Meta Primary"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1282
+#: components/portfolio/inc/class-customizer.php:450
+msgid "Meta Secondary"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1294
+#: components/portfolio/inc/class-customizer.php:462
+msgid "Thumbnail Background"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1308
+#: components/portfolio/inc/class-customizer.php:476
+msgid "Thumbnail Hover"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1308
+#: components/portfolio/inc/class-customizer.php:476
+msgid "Customize the mouse over effect for your thumbnails."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1312
+#: components/portfolio/inc/class-customizer.php:480
+msgid "Thumbnail Background Opacity"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1339
+#: components/portfolio/inc/class-customizer.php:507
+msgid "Item Title Font"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1377
+#: components/portfolio/inc/class-customizer.php:545
+msgid "Item Meta Font"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1449
+msgid "Demo Data"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1450
+msgid "If you would like to have a \"ready to go\" website as the theme's demo site, here is THE button."
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1454
+msgid "Import"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1460
+msgid "Note: We cannot serve you the original images due the "
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1462
+msgid "Import demo data"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1468
+msgid "Please wait a few minutes (between 1 and 3 minutes usually, but depending on your hosting it can take longer) and "
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1469
+msgid "don't reload the page"
+msgstr ""
+
+#: components/base/inc/class-customizer.php:1470
+msgid "You will be notified as soon as the import has finished!"
+msgstr ""
+
+#: components/base/inc/class-metaboxes.php:85
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: components/base/inc/class-metaboxes.php:93
+msgid "CSS Style"
+msgstr ""
+
+#: components/base/inc/class-metaboxes.php:94
+msgid "Add CSS that will only be applied to this post."
+msgstr ""
+
+#: components/base/inc/extras.php:702 components/base/inc/template-tags.php:445
+msgid "Categories"
+msgstr ""
+
+#: components/base/inc/extras.php:702 components/base/inc/extras.php:729
+msgid "%1$s"
+msgstr ""
+
+#: components/base/inc/extras.php:793
+msgid "Search for:"
+msgstr ""
+
+#: components/base/inc/extras.php:794
+msgid "Search here"
+msgstr ""
+
+#: components/base/inc/extras.php:795
+msgid "Search"
+msgstr ""
+
+#: components/base/inc/template-tags.php:366
+msgid "Everything"
+msgstr ""
+
+#: components/base/inc/template-tags.php:437
+msgid "Main Category"
+msgstr ""
+
+#: components/base/inc/template-tags.php:474
+#: components/portfolio/inc/template-tags.php:82
+msgid "No Comments"
+msgstr ""
+
+#: components/base/inc/template-tags.php:476
+#: components/portfolio/inc/template-tags.php:84
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: components/base/inc/template-tags.php:521
+msgid "Post navigation"
+msgstr ""
+
+#: components/base/inc/template-tags.php:527
+msgid "Previous article"
+msgstr ""
+
+#: components/base/inc/template-tags.php:535
+msgid "Next article"
+msgstr ""
+
+#: components/base/inc/template-tags.php:672
+msgid "View all posts by %s"
+msgstr ""
+
+#: components/base/inc/template-tags.php:672
+msgid "All posts"
+msgstr ""
+
+#: components/base/inc/template-tags.php:681 inc/extras.php:144
+msgid "Website"
+msgstr ""
+
+#. translators: %s: post title
+
+#: components/base/inc/template-tags.php:828
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: components/base/inc/template-tags.php:835
+#: components/base/template-parts/content-page.php:98
+msgid "Edit %s"
+msgstr ""
+
+#: components/base/inc/template-tags.php:863
+msgid "Pingback:"
+msgstr ""
+
+#: components/base/inc/template-tags.php:863
+msgid "(Edit)"
+msgstr ""
+
+#. translators: %s: comment author link
+
+#: components/base/inc/template-tags.php:877
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#. translators: 1: comment date, 2: comment time
+
+#: components/base/inc/template-tags.php:888
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: components/base/inc/template-tags.php:892
+msgid "Edit"
+msgstr ""
+
+#: components/base/inc/template-tags.php:896
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: components/base/inc/template-tags.php:1109
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr ""
+
+#: components/base/template-parts/content-none.php:31
+msgid "Nothing Found"
+msgstr ""
+
+#: components/base/template-parts/content-none.php:36
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/base/template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: components/base/template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: components/base/template-parts/content-page.php:87
+#: components/base/template-parts/content-single.php:68
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+
+#: components/base/template-parts/content-single.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: components/base/template-parts/content.php:109
+msgid "Read More"
+msgstr ""
+
+#: components/base/templates/404.php:47
+msgid "Oops! This page can&rsquo;t be found anywhere."
+msgstr ""
+
+#: components/base/templates/404.php:51
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: components/base/templates/comments.php:48
+msgctxt "comments title"
+msgid "%2$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: components/base/templates/comments.php:61
+#: components/base/templates/comments.php:84
+msgid "Comment navigation"
+msgstr ""
+
+#: components/base/templates/comments.php:64
+#: components/base/templates/comments.php:87
+msgid "Older Comments"
+msgstr ""
+
+#: components/base/templates/comments.php:65
+#: components/base/templates/comments.php:88
+msgid "Newer Comments"
+msgstr ""
+
+#: components/base/templates/comments.php:101
+msgid "Comments are closed."
+msgstr ""
+
+#: components/base/templates/comments.php:107
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: components/base/templates/comments.php:109
+msgid "Your comment..."
+msgstr ""
+
+#: components/base/templates/header.php:60
+msgid "Skip to content"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:89
+msgid "Thumbnail"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:91
+msgid "Thumbnail (Featured Image)"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:93
+msgid "The  image will be displayed on the Portfolio Grid as a thumbnail for the current project."
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:95
+msgid "<strong>Thumbnail Hover</strong>"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:97
+msgid "Set an alternative background image when the mouse hovers the thumbnail. It will fill the thumbnail area and it will be vertical and horizontal centered."
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:105
+msgid "Thumbnail Image"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:108
+msgid "Add Thumbnail Image"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:113
+msgid "Thumbnail Hover Image"
+msgstr ""
+
+#: components/featured-image/inc/class-metaboxes.php:116
+msgid "Add Thumbnail Hover"
+msgstr ""
+
+#: components/footer/class-footer.php:66 components/footer/class-footer.php:85
+#: components/footer/inc/class-customizer.php:117
+msgid "Footer"
+msgstr ""
+
+#: components/footer/class-footer.php:67
+msgid "Widgets displayed in the Footer Area of the website."
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:134
+msgid "Copyright Text"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:135
+msgid "Set the text that will appear in the footer area. Use %year% to display the current year."
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:144
+msgid "Top Spacing"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:165
+msgid "Bottom Spacing"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:186
+msgid "Hide \"Back To Top\" Link"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:191
+msgid "\"Footer Area\" Widgets Layout"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:192
+msgid "Choose if you want the footer widgets stack into one column or spread to a row."
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:195
+msgid "Stacked"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:196
+msgid "Row"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:219
+msgid "Links Color"
+msgstr ""
+
+#: components/footer/inc/class-customizer.php:231
+msgid "Footer Background"
+msgstr ""
+
+#: components/footer/inc/template-tags.php:162
+msgid "Back to Top"
+msgstr ""
+
+#: components/footer/inc/template-tags.php:186
+msgid "%%year%% &copy; Handcrafted with love by the %1$s Team"
+msgstr ""
+
+#: components/gallery/class-gallery.php:59
+msgid "Small"
+msgstr ""
+
+#: components/gallery/class-gallery.php:60
+msgid "Medium"
+msgstr ""
+
+#: components/gallery/class-gallery.php:61
+msgid "Large"
+msgstr ""
+
+#: components/gallery/class-gallery.php:62
+msgid "X-Large"
+msgstr ""
+
+#: components/gallery/class-gallery.php:202
+msgid "Slideshow"
+msgstr ""
+
+#: components/gallery/class-gallery.php:288
+msgid "Spacing"
+msgstr ""
+
+#: components/gallery/jetpack-fallback/functions.gallery.php:39
+msgid "Thumbnail Grid"
+msgstr ""
+
+#: components/gallery/jetpack-fallback/functions.gallery.php:82
+#: inc/required-plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: components/header/class-header.php:58
+msgid "Header Left"
+msgstr ""
+
+#: components/header/class-header.php:78
+msgid "Header Right"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:145
+#: inc/integrations/customify.php:625
+msgid "Header"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:163
+msgid "Logo Height"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:164
+msgid "Adjust the max height of your logo container."
+msgstr ""
+
+#: components/header/inc/class-customizer.php:188
+msgid "Header Height"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:189
+msgid "Adjust the header and navigation bar height."
+msgstr ""
+
+#: components/header/inc/class-customizer.php:208
+msgid "Navigation Link Spacing"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:209
+msgid "Adjust the spacing between individual items in your navigation."
+msgstr ""
+
+#: components/header/inc/class-customizer.php:235
+msgid "Header Position"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:236
+msgid "Choose if you want a static menu or a fixed (sticky) one that stays visible no matter how much you scroll the page."
+msgstr ""
+
+#: components/header/inc/class-customizer.php:239 inc/customizer.php:44
+msgid "Static"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:240 inc/customizer.php:45
+msgid "Sticky (fixed)"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:245
+msgid "Header Width"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:246
+msgid "Choose if you want the header span to the full-browser or stay aligned with the site container width."
+msgstr ""
+
+#: components/header/inc/class-customizer.php:249
+msgid "Full Browser Width"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:250
+msgid "Container Width"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:255
+msgid "Header Sides Spacing"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:256
+msgid "Adjust the space separating the header and the sides of the browser."
+msgstr ""
+
+#: components/header/inc/class-customizer.php:288
+msgid "Navigation Links Color"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:300
+msgid "Links Active Color"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:318
+msgid "Links Active Style"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:322
+#: inc/required-plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:323
+msgid "Underline"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:328
+msgid "Header Background"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:347
+msgid "Site Title Font"
+msgstr ""
+
+#: components/header/inc/class-customizer.php:384
+msgid "Navigation Text"
+msgstr ""
+
+#: components/header/template-parts/header.php:40
+msgid "Menu"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:101
+msgid "Here are the IDs of the selected featured projects to use elsewhere, if the need arises: "
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:119
+msgid "Hero Area &#187; Background"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:132
+msgid "Gallery Image"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:137
+msgid "Playlist"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:142
+#: components/hero/inc/class-metaboxes.php:143
+msgid "Image Opacity"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:153
+#: components/hero/inc/class-metaboxes.php:154
+msgid "Background Color"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:154
+msgid "Used as a background color during page transitions."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:154
+msgid "Tip: It helps if the color matches the background color of the Hero image."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:165
+#: components/hero/inc/class-metaboxes.php:167
+msgid "Hero Area &#187; Content"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:169
+msgid "Use this section to add a <strong>Title</strong> or a summary for this page. Get creative and add different elements like buttons, logos or other headings."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:171
+msgid "You can insert a title using a <strong>Heading 1</strong> element, either on the Hero Area or using a <b>Text Block</b> within the above content area."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:173
+msgid "* Note that the <strong>Page Title</strong> written above will <u>not</u> be included automatically on the page, so you have complete freedom in choosing where you place or how it looks."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:175
+msgid "Learn more about Managing the Hero Area"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:189
+msgid "Description"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:197
+msgid "Visible Hero Area"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:198
+msgid "Hidden Hero Area"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:200
+msgid "To hide the Hero Area section, remove the content above and any item from the Hero Area &#187; Background."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:201
+msgid "Add some content above or an image to the Hero Area &#187; Background to make the Hero Area visible."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:214
+msgid "Hero Area Height"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:215
+msgid "Set the height of the Hero Area relative to the browser window."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:220
+#: components/hero/inc/class-metaboxes.php:354
+msgid "Full Height"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:224
+#: components/hero/inc/class-metaboxes.php:358
+msgid "Two Thirds"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:228
+#: components/hero/inc/class-metaboxes.php:362
+msgid "&nbsp;Half"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:235
+msgid "Hero Content Alignment"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:236
+msgid ""
+"<p>Considering the background image focal point, you can align the content to make them both more visible.</p>\n"
+"\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t<li>Mix it with a background color overlay to make it pop</li>\n"
+"\t\t\t\t\t\t\t\t<li>Individual text alignments will override this option</li>\n"
+"\t\t\t\t\t\t\t\t<li>You can align the content to make them both more visible.</li>\n"
+"\t\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:293
+msgid "Slideshow Options"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:295
+msgid "Add more than one image to the <strong>Hero Area &#187; Background</strong> to enable this section. "
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:299
+msgid "Auto Play"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:300
+msgid "The slideshow will automatically move to the next slide, after a period of time."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:305
+msgid "Enabled"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:309
+msgid "Disabled"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:316
+msgid "Auto Play Delay (s)"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:317
+msgid "Set the number of seconds to wait before moving to the next slide."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:335
+msgid "Map Coordinates & Display Options"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:348
+msgid "Map Height"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:349
+msgid "Select the height of the Google Map area in relation to the browser window."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:369
+msgid "Google Maps URL"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:370
+msgid "Paste here the <strong>Share Link</strong>URL you have copied from <a href=\"https://www.google.com/maps\" target=\"_blank\">Google Maps</a>. Do not use the embed code or a short URL."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:376
+msgid "Custom Colors"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:377
+msgid "Allow us to change the map colors to better match your website."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:383
+msgid "Pin Content"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:384
+msgid "Insert here the content of the location marker - leave empty for no custom marker."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:571
+msgid "Media File"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:572
+#: components/hero/inc/class-metaboxes.php:610
+msgid "Custom Image URL"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:573
+#: components/hero/inc/class-metaboxes.php:601
+msgid "Custom Video URL"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:574
+#: components/hero/inc/class-metaboxes.php:636
+msgid "External URL"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:593
+msgid "Linked To"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:604
+msgid "Attach a video to this image <span class=\"small\">(YouTube or Vimeo)</span>."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:613
+msgid "Link this image to a custom url."
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:628
+msgid "Video Autoplay"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:630
+msgid "Enable Video Autoplay?"
+msgstr ""
+
+#: components/hero/inc/class-metaboxes.php:639
+msgid "Set this image to link to an external website."
+msgstr ""
+
+#: components/portfolio/class-portfolio.php:595
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: components/portfolio/class-portfolio.php:596
+msgid "Choose what page should act as the portfolio archive page."
+msgstr ""
+
+#: components/portfolio/inc/class-customizer.php:139
+msgid "Portfolio Grid Items"
+msgstr ""
+
+#: components/portfolio/inc/class-customizer.php:157
+msgid "Portfolio Grid Max Width"
+msgstr ""
+
+#: components/portfolio/inc/class-customizer.php:158
+msgid "Adjust the max width of the portfolio area."
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:176
+msgid "Featured Projects Options"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:181
+msgid "Selected Projects"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:183
+msgid "Choose the projects to be part of the Hero Slider."
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:194
+msgid "\"View Project\" Button Label"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:196
+msgid "Adjust the label for the single project button, displayed on each slide. Empty it if you want to hide the button."
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:198
+msgid "View project"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:233
+msgid "Portfolio Grid"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:245
+msgid "Projects List Visibility"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:247
+msgid "Select which projects to be shown in the Portfolio Grid section."
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:251
+msgid "Show All Projects"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:255
+msgid "Show Only Projects That Are Not Featured"
+msgstr ""
+
+#: components/portfolio/inc/class-metaboxes.php:259
+msgid "Hide All Projects"
+msgstr ""
+
+#: components/portfolio/inc/template-tags.php:45
+msgid "Main Type"
+msgstr ""
+
+#: components/portfolio/inc/template-tags.php:53
+msgid "Types"
+msgstr ""
+
+#: components/portfolio/inc/template-tags.php:107
+#: components/portfolio/template-parts/posts-navigation.php:31
+msgid "Projects navigation"
+msgstr ""
+
+#: components/portfolio/inc/template-tags.php:110
+#: components/portfolio/template-parts/posts-navigation.php:29
+msgid "Older projects"
+msgstr ""
+
+#: components/portfolio/template-parts/loop-custom.php:55
+#: components/portfolio/template-parts/loop-shortcode.php:50
+msgid "Your Portfolio currently has no entries. You can start creating them on your dashboard."
+msgstr ""
+
+#: components/portfolio/template-parts/posts-navigation.php:30
+msgid "Newer projects"
+msgstr ""
+
+#: components/portfolio/templates/archive-jetpack-portfolio.php:30
+msgid "Projects"
+msgstr ""
+
+#: inc/components.php:28
+msgid "Primary Header"
+msgstr ""
+
+#: inc/components.php:31
+msgid "Secondary Header"
+msgstr ""
+
+#: inc/components.php:65
+msgid "Adjacent Slides"
+msgstr ""
+
+#: inc/components.php:66
+msgid "Decide if you want to show adjacent slides."
+msgstr ""
+
+#: inc/components.php:71
+msgid "<span class=\"dashicons dashicons-leftright\"></span> None"
+msgstr ""
+
+#: inc/components.php:75
+msgid "<span class=\"dashicons dashicons-arrow-right\"></span> Next Only"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by WoodfordBourne, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: inc/extras.php:62
+msgctxt "WoodfordBourne font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+
+#: inc/extras.php:88
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+
+#: inc/extras.php:93
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/extras.php:134
+msgid "Name"
+msgstr ""
+
+#: inc/extras.php:135
+msgid "Your name"
+msgstr ""
+
+#: inc/extras.php:139
+msgid "Email"
+msgstr ""
+
+#: inc/extras.php:140
+msgid "your@email.com"
+msgstr ""
+
+#: inc/extras.php:180
+msgid "Display"
+msgstr ""
+
+#: inc/extras.php:181
+msgid "Intro Text"
+msgstr ""
+
+#: inc/extras.php:182
+msgid "Dropcap"
+msgstr ""
+
+#: inc/extras.php:183
+msgid "Blockquote Inner"
+msgstr ""
+
+#: inc/extras.php:184
+msgid "Button Directional &#8594;"
+msgstr ""
+
+#: inc/integrations/customify.php:182
+msgid "Page Transitions Symbol"
+msgstr ""
+
+#: inc/integrations/customify.php:183
+msgid "Set the symbol that will be displayed when a new page is loading. Use plain text or paste an inline SVG code."
+msgstr ""
+
+#: inc/integrations/customify.php:750
+msgid "&copy; %%year%% Fargo by %1$s"
+msgstr ""
+
+#: inc/integrations/gridable.php:19
+msgid "Row Style"
+msgstr ""
+
+#: inc/integrations/gridable.php:22 inc/integrations/gridable.php:109
+msgid "Simple"
+msgstr ""
+
+#: inc/integrations/gridable.php:23
+msgid "Strip"
+msgstr ""
+
+#: inc/integrations/gridable.php:30
+msgid "Is stretched?"
+msgstr ""
+
+#: inc/integrations/gridable.php:106
+msgid "Column Style"
+msgstr ""
+
+#: inc/integrations/gridable.php:110
+msgid "Highlighted"
+msgstr ""
+
+#: inc/integrations/gridable.php:111
+msgid "Feature Box"
+msgstr ""
+
+#: inc/integrations/pixcare.php:93
+msgid "One more lap to go.."
+msgstr ""
+
+#: inc/integrations/pixcare.php:98
+msgid "Start your digital journey with our"
+msgstr ""
+
+#: inc/integrations/pixcare.php:99 inc/integrations/pixcare.php:106
+msgid "Pixelgrade Care&#174;"
+msgstr ""
+
+#: inc/integrations/pixcare.php:100
+msgid "on board. It's the core of your experience with our WordPress theme, and we bet you are going to love it from day one. You're in great hands, no doubt about that!"
+msgstr ""
+
+#: inc/integrations/pixcare.php:107
+msgid "Installing ..."
+msgstr ""
+
+#: inc/integrations/pixcare.php:114
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: inc/integrations/pixcare.php:132
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/integrations/pixcare.php:133
+msgid "Plugin destination folder already exists."
+msgstr ""
+
+#: inc/integrations/pixcare.php:154
+msgid "Bummer! Something went wrong. I'm sorry but you will need to install the plugin manually. Redirecting you to the appropriate page..."
+msgstr ""
+
+#: inc/integrations/pixcare.php:184
+msgid "Pixelgrade Care &rsaquo; Installer"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:327
+#: inc/required-plugins/required-plugins.php:54
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:328
+#: inc/required-plugins/required-plugins.php:55
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:330
+#: inc/required-plugins/required-plugins.php:56
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:333
+#: inc/required-plugins/required-plugins.php:58
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:370
+#: inc/required-plugins/required-plugins.php:75
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:385
+#: inc/required-plugins/required-plugins.php:77
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:386
+#: inc/required-plugins/class-tgm-plugin-activation.php:827
+#: inc/required-plugins/class-tgm-plugin-activation.php:2533
+#: inc/required-plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:387
+#: inc/required-plugins/class-tgm-plugin-activation.php:3159
+#: inc/required-plugins/required-plugins.php:78
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:388
+#: inc/required-plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:934
+#: inc/required-plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:1121
+#: inc/required-plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3509
+#: inc/required-plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3509
+#: inc/required-plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/required-plugins/required-plugins.php:59
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:61
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:63
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:65
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:67
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:69
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:71
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:73
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:76
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/required-plugins.php:79
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgctxt "previous set of posts"
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "next set of posts"
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#. Translators: Media dimensions - 1 is width and 2 is height.
+
+#: inc/vendor/hybrid-core/class-media-meta.php:245
+#: inc/vendor/hybrid-core/template-media.php:237
+msgid "%1$s &#215; %2$s"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:21
+msgid "Add widgets here."
+msgstr ""
+
+#: single-jetpack-portfolio.php:66
+msgid "Index"
+msgstr ""
+
+#: single-jetpack-portfolio.php:69
+msgid "Thumbs"
+msgstr ""
+
+#: single-jetpack-portfolio.php:74
+msgid "Share"
+msgstr ""
+
+#: single-jetpack-portfolio.php:97
+msgid "Start scrolling"
+msgstr ""
+
+#: single-jetpack-portfolio.php:104
+msgid "%s of %s "
+msgstr ""
+
+#: single-jetpack-portfolio.php:107
+msgid "Continue scrolling"
+msgstr ""
+
+#: single-jetpack-portfolio.php:126
+msgid "Next Project:"
+msgstr ""
+
+#: single-jetpack-portfolio.php:129
+msgid "Next"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Fargo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demos.pixelgrade.com/otto/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Fargo is a photography WordPress theme crafted for visual artists who want to inspire the world by showcasing their work in style."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pixelgrade"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pixelgrade.com"
+msgstr ""

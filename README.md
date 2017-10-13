@@ -1,2 +1,2 @@
 # fargo-child
-A Fargo child theme starter
+This is a very nice starter child theme for Fargo. Enjoy!
